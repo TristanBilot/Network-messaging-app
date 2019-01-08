@@ -1,0 +1,3 @@
+Mailbox gr5a8
+caraty gr5a8 26/11/14 14:35:23
+Programmez sans nombres magiques (constantes litterales, par ex. 255, ".txt").  

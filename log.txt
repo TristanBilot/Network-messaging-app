@@ -1,0 +1,17 @@
+1 Detection de nouveau message caraty gr9a12 26/11/14 14:16:37
+2 Detection de nouveau message caraty gr1a4 26/11/14 14:20:02
+3 Detection de nouveau message caraty gr5a8 26/11/14 14:35:23
+5 Detection de fin de message caraty gr5a8 26/11/14 14:35:23
+10 Detection de nouveau message caraty all 26/11/14 15:27:57
+11 Detection de fin de message caraty gr1a4 26/11/14 14:20:02
+11 Archivage mailbox caraty gr1a4 26/11/14 14:20:02
+11 Perte de paquet, suppression de message caraty gr9a12 26/11/14 14:16:37
+12 Detection de nouveau message caraty all 26/11/14 15:25:41
+12 Detection de fin de message caraty all 26/11/14 15:25:41
+12 Archivage mailbox caraty all 26/11/14 15:25:41
+13 Archivage mailbox caraty gr5a8 26/11/14 14:35:23
+14 Detection de nouveau message caraty gr9a12 26/11/14 14:16:37
+14 Detection de fin de message caraty gr9a12 26/11/14 14:16:37
+15 Detection de fin de message caraty all 26/11/14 15:27:57
+15 Archivage mailbox caraty all 26/11/14 15:27:57
+Fin de transmission, supression de message caraty gr9a12 26/11/14 14:16:37
